@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cclsenna
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Web Development Stack
+- 🌱 I’m currently learning Web Development Stack(HTML,CSS,Javascript)
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact < Email : caiosenna93@gmail.com/ Phone : +5521964643172>
 
