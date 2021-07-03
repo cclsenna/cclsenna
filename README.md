@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @cclsenna
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Web Development Stack(HTML,CSS,Javascript)
-- 💞️ I’m looking to collaborate on ...
-- 📫 Contact < Email : caiosenna93@gmail.com/ Phone : +5521964643172>
+- I’m Caio from Brazil.
+- Currently studying Web Development Stack(HTML,CSS,Javascript)
+-Contact < Email : caiosenna93@gmail.com/ Phone : +5521964643172>
 
 <!---
 cclsenna/cclsenna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
