@@ -1,7 +1,22 @@
-- I’m Caio and I am currently learning and evolving my knowledge in Web Development (HTML,CSS and Javascript)
-- Contact <Email : caiosenna93@gmail.com>
+ 
+### Hi, I'm Caio. 
+#### Software Developer
+----
 
-<!---
-cclsenna/cclsenna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=cclsenna&count_private=true&show_icons=true&theme=aura">
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cclsenna&layout=compact&theme=aura">
+
+</div>
+
+
+----
+## Contato
+### Email:caiosenna93@gmail.com
+### LinkedIn : linkedin.com/in/caiosenna93/
+
+
+
+
+
