@@ -13,8 +13,8 @@
 
 ----
 ## Contato
-### Email:caiosenna93@gmail.com
-### LinkedIn : linkedin.com/in/caiosenna93/
+### Email: caiosenna93@gmail.com
+### LinkedIn : <a href='https://www.linkedin.com/in/caiosenna93/'>linkedin.com/in/caiosenna93/</a>
 
 
 
