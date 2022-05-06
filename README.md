@@ -2,6 +2,7 @@
 ### Hi, I'm Caio. 
 #### Software Developer
 ----
+Web Delepoment student in search for a entry level job. Currently focusing on fulls tack abilities,but is very fond of the back end subjects.
 
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cclsenna&count_private=true&show_icons=true&theme=aura">
