@@ -1,6 +1,6 @@
  
 ### Hi, I'm Caio. 
-Web Development student in search for a entry level job. Currently focusing on full stack abilities, but is very fond of the back end subjects.
+Web Development student in search for a entry level job. Currently focusing on full stack abilities, but is very fond of back end technologies.
 
 ----
 
