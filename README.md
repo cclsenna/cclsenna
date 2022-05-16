@@ -13,7 +13,7 @@ Web Development student in search for a entry level job. Currently focusing on f
 
 
 ----
-## Contact
+### Contact
 Email: caiosenna93@gmail.com
 
 LinkedIn : <a href='https://www.linkedin.com/in/caiosenna93/'>linkedin.com/in/caiosenna93/</a>
