@@ -1,6 +1,7 @@
  
 ### Hi, I'm Caio. 
-Web Development student in search for a entry level job. Currently focusing on full stack abilities, but is very fond of back end technologies.
+
+Java Backend Developer currently working at Imusica.Avaiable for full stack gigs.
 
 ----
 
